@@ -1,5 +1,4 @@
-import { Button, Container, Nav, Navbar as NavbarBs } from "react-bootstrap";
-import { NavLink } from "react-router-dom";
+import { Button, Container, Navbar as NavbarBs } from "react-bootstrap";
 import { useShoppingCart } from "../context/ShoppingCartContext";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faCartShopping } from "@fortawesome/free-solid-svg-icons";
